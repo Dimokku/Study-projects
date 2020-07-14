@@ -1,0 +1,5 @@
+Time imitation: 12 s
+Maximum fixed speed: 35 km/h
+Minimum fixed speed: 1 km/h
+Car count: 11
+Uniform flow 1 times faster than pulsating

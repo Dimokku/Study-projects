@@ -1,0 +1,6 @@
+D:\Ucheba\5sem\OOP_Labs\CourseWork_OOP_sem5\Kraskal_Algorithm\obj\Debug\KruskalAlgorithm.csprojAssemblyReference.cache
+D:\Ucheba\5sem\OOP_Labs\CourseWork_OOP_sem5\Kraskal_Algorithm\obj\Debug\Kraskal_Algorithm.Form1.resources
+D:\Ucheba\5sem\OOP_Labs\CourseWork_OOP_sem5\Kraskal_Algorithm\obj\Debug\Kraskal_Algorithm.Properties.Resources.resources
+D:\Ucheba\5sem\OOP_Labs\CourseWork_OOP_sem5\Kraskal_Algorithm\obj\Debug\KruskalAlgorithm.csproj.GenerateResource.cache
+D:\Ucheba\5sem\OOP_Labs\CourseWork_OOP_sem5\Kraskal_Algorithm\obj\Debug\Kraskal_Algorithm.exe
+D:\Ucheba\5sem\OOP_Labs\CourseWork_OOP_sem5\Kraskal_Algorithm\obj\Debug\Kraskal_Algorithm.pdb
